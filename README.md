@@ -1,4 +1,4 @@
-# DeFi Vulnerability Finding Benchmark
+# DVBench: DeFi Vulnerability Finding Benchmark
 
 A benchmark for evaluating AI agents on smart contract security auditing.
 Given the verified Solidity source code of a real DeFi contract that was later exploited,
@@ -324,8 +324,8 @@ See [`scripts/README.md`](scripts/README.md) for full documentation.
 If you use this benchmark in your research, please cite:
 
 ```bibtex
-@misc{defivulnbenchmark2026,
-  title  = {DeFi Vulnerability Finding Benchmark},
+@misc{dvbench2026,
+  title  = {DVBench: DeFi Vulnerability Finding Benchmark},
   author = {cecuro},
   year   = {2026},
   url    = {https://github.com/Cecuro/defi-vuln-benchmark}

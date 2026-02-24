@@ -1,5 +1,5 @@
 [project]
-name = "defi-vuln-benchmark"
+name = "dvbench"
 version = "0.1.0"
 description = "Benchmark for evaluating AI agents on DeFi smart contract vulnerability identification"
 requires-python = ">=3.11"

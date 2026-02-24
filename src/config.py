@@ -1,4 +1,4 @@
-"""Configuration for the DeFi vulnerability finding benchmark."""
+"""Configuration for DVBench — DeFi Vulnerability Finding Benchmark."""
 
 import os
 from dataclasses import dataclass, field

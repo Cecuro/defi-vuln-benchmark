@@ -1,4 +1,4 @@
-"""Agent registry for the DeFi vulnerability finding benchmark.
+"""Agent registry for DVBench — DeFi Vulnerability Finding Benchmark.
 
 To add a new agent:
 1. Create src/agents/your_agent/ with an agent class subclassing BaseAgent

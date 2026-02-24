@@ -1,4 +1,4 @@
-"""Base agent interface for the DeFi vulnerability finding benchmark.
+"""Base agent interface for DVBench — DeFi Vulnerability Finding Benchmark.
 
 All agents must subclass BaseAgent and implement the run() method.
 Register new agents in src/agents/__init__.py.

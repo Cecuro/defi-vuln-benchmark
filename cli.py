@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""CLI for the DeFi vulnerability finding benchmark.
+"""CLI for DVBench — DeFi Vulnerability Finding Benchmark.
 
 Usage:
     uv run python cli.py pentest --list
@@ -194,7 +194,7 @@ def _parse_after(after: str | None) -> int | None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="DeFi Vulnerability Finding Benchmark",
+        description="DVBench — DeFi Vulnerability Finding Benchmark",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
@@ -212,7 +212,7 @@ Examples:
     # ── pentest command ───────────────────────────────────────────────────────
     pentest_parser = subparsers.add_parser(
         "pentest",
-        help="Run vulnerability identification agent on DeFi benchmark cases",
+        help="Run vulnerability identification agent on DVBench cases",
     )
 
     # Case selection

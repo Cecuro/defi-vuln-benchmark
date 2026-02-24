@@ -1,4 +1,4 @@
-"""Minimal Foundry project setup for the vulnerability identification benchmark.
+"""Minimal Foundry project setup for DVBench.
 
 Creates a Foundry project with the target contract source available for the
 agent to read. No exploit template — the agent's task is to identify

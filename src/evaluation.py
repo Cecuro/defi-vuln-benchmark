@@ -1,4 +1,4 @@
-"""LLM-as-judge evaluation for the DeFi vulnerability finding benchmark.
+"""LLM-as-judge evaluation for DVBench — DeFi Vulnerability Finding Benchmark.
 
 Computes per-case recall: what fraction of the auditable reference findings
 did the agent identify? Also tracks novel findings (agent findings that do
